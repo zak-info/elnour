@@ -25,7 +25,7 @@ export default function ContactUs() {
         </div>
         <div className='text-center'>
           <h3 className='text-4xl sm:text-52 font-medium tracking-tighter text-black dark:text-white mb-3 leading-10 sm:leading-14'>
-            Have questions? We're ready to help!
+            Have questions? We&apos;re ready to help!
           </h3>
           <p className='text-xm font-normal tracking-tight text-black/50 dark:text-white/50 leading-6'>
             Looking for the right education for your child? Our expert team at El Nour School offers
@@ -50,7 +50,7 @@ export default function ContactUs() {
                 Contact information
               </h5>
               <p className='text-sm xs:text-base mobile:text-xm font-normal text-white/80'>
-                Ready to enroll your child or learn more about our programs? We're here
+                Ready to enroll your child or learn more about our programs? We&apos;re here
                 to help!
               </p>
             </div>
