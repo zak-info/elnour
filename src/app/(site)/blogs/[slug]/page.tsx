@@ -76,7 +76,7 @@ export default async function Post({ params }: any) {
         "detail",
     ]);
 
-    const content = await markdownToHtml(post.content || "");
+    const content = await markdownToHtml(typeof post.content === 'string' ? post.content : "");
 
     return (
         <>
