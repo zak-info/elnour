@@ -30,13 +30,13 @@ const GetInTouch: React.FC = () => {
                 <div className="w-full py-5 bg-primary rounded-b-2xl overflow-hidden">
                     <div className="flex items-center gap-40 animate-slide">
                         <p className='text-white whitespace-nowrap relative after:absolute after:w-20 after:h-px after:bg-white after:top-3 after:-right-32'>
-                            ENROLL NOW FOR THE 2025 ACADEMIC YEAR—SECURE YOUR CHILD'S FUTURE!
+                            ENROLL NOW FOR THE 2025 ACADEMIC YEAR—SECURE YOUR CHILD&apos;S FUTURE!
                         </p>
                         <p className='text-white whitespace-nowrap relative after:absolute after:w-20 after:h-px after:bg-white after:top-3 after:-right-32'>
                             EXPLORE OUR COMPREHENSIVE PROGRAMS IN STEM, ARTS, AND HUMANITIES!
                         </p>
                         <p className='text-white whitespace-nowrap relative after:absolute after:w-20 after:h-px after:bg-white after:top-3 after:-right-32'>
-                            ENROLL NOW FOR THE 2025 ACADEMIC YEAR—SECURE YOUR CHILD'S FUTURE!
+                            ENROLL NOW FOR THE 2025 ACADEMIC YEAR—SECURE YOUR CHILD&apos;S FUTURE!
                         </p>
                         <p className='text-white whitespace-nowrap relative after:absolute after:w-20 after:h-px after:bg-white after:top-3 after:-right-32'>
                             EXPLORE OUR COMPREHENSIVE PROGRAMS IN STEM, ARTS, AND HUMANITIES!

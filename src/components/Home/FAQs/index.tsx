@@ -38,7 +38,7 @@ const FAQ: React.FC = () => {
                                 <AccordionItem value="item-1">
                                     <AccordionTrigger>1. What programs does El Nour School offer?</AccordionTrigger>
                                     <AccordionContent>
-                                        Discover a diverse range of academic programs, from elementary to advanced courses in STEM, Arts, Humanities, and more, tailored to your child's educational needs.
+                                        Discover a diverse range of academic programs, from elementary to advanced courses in STEM, Arts, Humanities, and more, tailored to your child&apos;s educational needs.
                                     </AccordionContent>
                                 </AccordionItem>
                                 <AccordionItem value="item-2">
